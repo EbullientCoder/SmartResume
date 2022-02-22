@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Smart Card</string>
+
+    <!-- Profile -->
+    <string name="name">Andrea Lapiana</string>
+    <string name="profile_job">Mobile Developer - Software Engineer</string>
+    <string name="analytics">Projects Analytics</string>
+    <string name="collaborations">Important Collaborations</string>
+    <string name="edit_exp">Add\nExperiences</string>
+    <string name="edit_projects">Add\nProjects</string>
+
+    <!-- Home -->
+    <string name="current_job_post">Current Job Post</string>
+    <string name="job_name">Android Developer</string>
+    <string name="diploma">Software Engineering</string>
+
+    <!-- CV -->
+    <string name="experiences">Professional Experiences</string>
+
+    <!-- Portfolio -->
+    <string name="portfolio">Portfolio</string>
+
+    <!-- Team -->
+    <string name="team">Our Team</string>
+
+    <string name="lorem_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</string>
+    <string name="lorem_text2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</string>
+
+    <!-- Add Experience -->
+    <string name="date">Date</string>
+    <string name="description">Description</string>
+    <string name="title">Title</string>
+    <string name="empty">Fields can\'t be empty</string>
+    <string name="link">Image Link</string>
+    <string name="add">ADD</string>
+
+    <string name="add_experience">ADD EXPERIENCE</string>
+    <string name="add_project">ADD PROJECT</string>
+
+</resources>

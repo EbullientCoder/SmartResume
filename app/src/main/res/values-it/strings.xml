@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Italian -->
+<resources>
+    <string name="app_name">Smart Card</string>
+
+    <!-- Profile -->
+    <string name="name">Andrea Lapiana</string>
+    <string name="profile_job">Sviluppatore Mobile - Ingegnere Informatico</string>
+    <string name="analytics">Analisi dei Progetti</string>
+    <string name="collaborations">Collaborazioni Importanti</string>
+    <string name="edit_exp">Aggiungi\nEsperienze</string>
+    <string name="edit_projects">Aggiungi\nProgetti</string>
+
+    <!-- Home -->
+    <string name="current_job_post">Lavoro Attuale</string>
+    <string name="job_name">Sviluppatore Android</string>
+    <string name="diploma">Ingegnere Infromatico</string>
+
+    <!-- CV -->
+    <string name="experiences">Esperienze Professionali</string>
+
+    <!-- Portfolio -->
+    <string name="portfolio">Portfolio</string>
+
+    <!-- Team -->
+    <string name="team">Il nostro Team</string>
+
+    <string name="lorem_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</string>
+    <string name="lorem_text2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</string>
+
+    <!-- Add Experience -->
+    <string name="date">Data</string>
+    <string name="description">Descrizione</string>
+    <string name="title">Titolo</string>
+    <string name="empty">I campi non possono essere vuoti</string>
+    <string name="link">Link Immagine</string>
+    <string name="add">AGGIUNGI</string>
+
+    <string name="add_experience">AGGIUNGI ESPERIENZA</string>
+    <string name="add_project">AGGIUNGI PROGETTO</string>
+
+</resources>
